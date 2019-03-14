@@ -171,7 +171,6 @@ export default {
 .count-exist {
     margin-left: 55%;
     margin-top: 13%;
-
 }
 
 .moveBg {
